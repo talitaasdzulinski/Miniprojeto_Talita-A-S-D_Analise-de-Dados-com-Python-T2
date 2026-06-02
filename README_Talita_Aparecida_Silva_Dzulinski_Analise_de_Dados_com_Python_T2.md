@@ -28,7 +28,7 @@ projeto/
 
 1. Clone o repositório:
    ```bash
-   git clone (inserir aqui meu link do github)
+   git clone (https://github.com/talitaasdzulinski/Miniprojeto_Talita-A-S-D_Analise-de-Dados-com-Python-T2)
    ```
 2. Instale as dependências:
    ```bash
